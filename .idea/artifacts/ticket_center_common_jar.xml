@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ticket_center_common:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ticket_center_common_jar</output-path>
+    <root id="archive" name="ticket_center_common.jar">
+      <element id="module-output" name="ticket_center_common" />
+    </root>
+  </artifact>
+</component>
